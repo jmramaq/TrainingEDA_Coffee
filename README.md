@@ -1,6 +1,7 @@
 # TrainingEDA_Coffee
 
 EDA made in my spare time for training purposes. Based on the Coffee Quiality database from Kaggle.
+
 Link: https://www.kaggle.com/datasets/volpatto/coffee-quality-database-from-cqi
 
 Will add a quality coffee prediction using different algorythms.
